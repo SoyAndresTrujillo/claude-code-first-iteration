@@ -1,8 +1,8 @@
 ---
-description: 
+trigger: always_on
 globs: *.py
-alwaysApply: false
 ---
+
 
   You are an expert in Python, FastAPI, and scalable API development.
   

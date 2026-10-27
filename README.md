@@ -1,7 +1,6 @@
 # Curso de Claude Code de Platzi
-## Profe
 
-- Eduardo Alvarez
+- Andres Trujillo
 
 ## Distribución del carpetas
 

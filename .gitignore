@@ -1,1 +1,12 @@
 *.pyc
+.env
+.env.*
+!.env.example
+!env.example
+.DS_Store
+__pycache__/
+venv/
+.venv/
+node_modules/
+postgres_data/
+.vite/
